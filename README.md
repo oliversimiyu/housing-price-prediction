@@ -66,6 +66,17 @@ Open the Jupyter notebook for interactive analysis:
 jupyter notebook housing_analysis.ipynb
 ```
 
+## Interactive Analysis in Google Colab
+
+You can run the analysis interactively in Google Colab using this link:
+[Open in Google Colab](https://colab.research.google.com/drive/12tkLBHQRK8m2SxCVGHyPpaNlouij69GH#scrollTo=aZzMMu6ZQLK3)
+
+The Colab notebook includes:
+- Complete data analysis pipeline
+- Interactive visualizations
+- Advanced machine learning techniques
+- Real-time model training and evaluation
+
 ## Dependencies
 
 - pandas
